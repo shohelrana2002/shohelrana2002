@@ -1,3 +1,5 @@
+![Your Alt Text](./2DYg.gif)
+
 # Hi, I'm Shohel Rana! 👋
 
 🚀 **MERN Stack Developer**  
