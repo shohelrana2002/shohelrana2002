@@ -3,7 +3,7 @@
 # Hi, I'm Shohel Rana! 👋
 
 🚀 **MERN Stack Developer**  
-🎥 Sharing my journey and tips on **web development**, **freelancing**
+🎥 Sharing my journey and tips on **web development**
 💻 #codinginpublic in my digital space here  
 📚 Currently learning **Figma** and **Webflow** to create awesome websites!  
 
