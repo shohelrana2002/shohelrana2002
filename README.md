@@ -11,7 +11,7 @@
 - **Frontend**: Next.js, Tailwind CSS, Material UI
 - **Backend**: Node.js, Express.js, MongoDB
 - **Design Tools**: Figma, Webflow
-- **Other Skills**:  JavaScript, React,Typesvript
+- **Other Skills**:  React,Typesvript
 
 ---
 
