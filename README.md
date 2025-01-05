@@ -18,9 +18,13 @@
 ---
 
 ### 🌐 Connect with Me
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
+<section id="contact">
+  <ul>
+    <li>Email: <a href="mailto:shohel2024.bd.20022@gmail.com">shohel2024.bd.20022@gmail.com</a></li>
+  
+  </ul>
+</section>
+
 
 ---
 
