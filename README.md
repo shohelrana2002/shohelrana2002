@@ -3,7 +3,7 @@
 # Hi, I'm Shohel Rana! 👋
 
 🚀 **MERN Stack Developer**  
-📚 Currently learning **Figma** and **Webflow** to create awesome websites!  
+📚 Currently learning **Typescriot** and **Redux** to create awesome websites!  
 
 ---
 
