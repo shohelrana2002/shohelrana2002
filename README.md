@@ -18,7 +18,7 @@
 ### 🌐 Connect with Me
 <section id="contact">
   <ul>
-    <li>Email: <a href="mailto:shohel2024.bd.20022@gmail.com">shohel2024.bd.20022@gmail.com</a></li>
+    <li>Email: <a href="mailto:shohel2024.bd.20022@gmail.com">shohel2024.bd.2002@gmail.com</a></li>
   
   </ul>
 </section>
