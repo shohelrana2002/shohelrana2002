@@ -6,14 +6,11 @@
 📚 Currently learning **Typescriot** and **Redux** to create awesome websites!  
 
 ---
+# 🚀 Tech Stack  
 
-### 🚀 Tech Stack
-- **Frontend**: Next.js, Tailwind CSS, Material UI
-- **Backend**: Node.js, Express.js, MongoDB
-- **Design Tools**: Figma, Webflow
-- **Other Skills**:  React,Typesvript
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=600&lines=Frontend%3A+Next.js%2C+Tailwind+CSS%2C+Material+UI;Backend%3A+Node.js%2C+Express.js%2C+MongoDB;Design+Tools%3A+Figma%2C+Webflow;Other+Skills%3A+React%2C+TypeScript)
 
----
+
 
 ### 🌐 Connect with Me
 <section id="contact">
